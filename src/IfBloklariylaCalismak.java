@@ -1,8 +1,7 @@
 public class IfBloklariylaCalismak {
+	public static void main(String[] args) {
+		int sayii = 35;
 
-	public IfBloklariylaCalismak() {
-       int sayii = 35;
-		
 		if(sayii<20) {
 			System.out.println("Sayı 20den küçüktür.");
 		}
@@ -12,7 +11,6 @@ public class IfBloklariylaCalismak {
 		else {
 			System.out.println("Sayı 20den büyüktür.");
 		}
-		
 	}
 
 }
