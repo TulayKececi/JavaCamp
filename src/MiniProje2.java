@@ -1,5 +1,3 @@
-package yazılımGeliştiriciYetiştirmeKampiOdev2;
-
 public class MiniProje2 {
 
 	public MiniProje2() {

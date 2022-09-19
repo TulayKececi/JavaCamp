@@ -1,5 +1,3 @@
-package yazılımGeliştiriciYetiştirmeKampiOdev2;
-
 public class TemelVeriTipleri {
 
 	public TemelVeriTipleri() {

@@ -1,5 +1,3 @@
-package yazılımGeliştiriciYetiştirmeKampiOdev2;
-
 public class RecapDemo2 {
 
 	public RecapDemo2() {
